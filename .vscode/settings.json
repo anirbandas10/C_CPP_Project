@@ -2,7 +2,8 @@
   "deepscan.enable": true,
   "files.associations": {
     "iostream": "cpp",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "unistd.h": "c"
   },
   "cmake.sourceDirectory": "${workspaceFolder}/build"
 }
